@@ -16,6 +16,10 @@ Project follows the Feature-Sliced Design (FSD) architecture. Check out the FSD 
 
 [Working with data documentation](./docs/working-with-data.md)
 
+### Testing
+
+Unit Testing (Jest): `npm run test:unit`
+
 ### Entities
 
 -   [Pokemon](./src/entities/Pokemon/readme.md)
