@@ -1,0 +1,10 @@
+.PokemonCardItem {
+    margin-bottom: 10px;
+    width: 100%;
+
+    div {
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}

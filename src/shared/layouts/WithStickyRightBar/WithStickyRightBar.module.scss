@@ -1,0 +1,12 @@
+.WithStickyRightBar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+
+    .right {
+        position: sticky;
+        top: 0;
+        align-self: flex-start;
+    }
+}

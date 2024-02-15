@@ -1,0 +1,15 @@
+.PokemonCard {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+        cursor: pointer;
+        border-color: blue;
+    }
+}
+
+.name {
+    font-size: 26px;
+}
